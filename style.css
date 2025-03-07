@@ -1,5 +1,109 @@
-.img{
+body {
+
+    background-color: #fca3c3;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+}
+
+/* Texto */
+
+.TituloH1{
+
+    color: #f43984;
+    font-size: 40px;
+}
+
+.SubtituloH2 {
+
+    color: #f24087;
+
+}
+
+.SubtituloH3 {
+
+    color: #f24087;
+
+
+}
+
+.parrafo{
+
+ color: #f24087;
+
+
+}
+
+.Resaltado {
+
+    color:#f93c87;
+    font-weight:bold;
+    font-size: medium;
+}
+
+/* Tabla */
+
+.tabla {
+
+border: 3px solid #ef5391;
+color: #f24087;
+text-align:left;
+border-collapse: collapse;
+
+}
+
+.titulo-tabla {
+
+    font-weight: 650;
+
+}
+
+th, td {
+
+border: 3px solid #ef5391;
+padding: 5px;
+
+}
+
+th {
+
+    background-color: #fa75a6;
+    color: #fca3c3 ;
+    font-size: 19px;
+    text-align: center;
+
+}
+
+/* Formulario */
+
+.contenedor-campo{
+
+    color: #f24087;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.labels {
+
+text-decoration: underline solid #fa75a6;
+
+
+}
+
+.button {
+
+    background-color: #ff98be;
+    border: solid #eb74a0;
+    color: #e23a7d;
+    
+
+
+}
+
+/* Imagen */
+
+.img {
 
     width: 30%;
 
 }
+
